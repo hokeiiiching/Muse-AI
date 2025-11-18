@@ -1,0 +1,5 @@
+{
+  "name": "Muse - AI Ghostwriter",
+  "description": "Upload an image to inspire a story. The AI analyzes the scene and mood to ghostwrite an opening paragraph, narrated by an expressive AI voice.",
+  "requestFramePermissions": []
+}
